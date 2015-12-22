@@ -1,6 +1,6 @@
 # hello-world
 just for learning first git steps
+(branch commit)
+some content (branch commit)
 
-some content 
-
-more content
+more (branch commit)content
